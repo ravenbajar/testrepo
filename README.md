@@ -1,4 +1,5 @@
-data = pd.read_csv("Downloads/GHCND.csv")
-data
-df = pd.DataFrame(data)
-df.head()
+#trestpo
+
+##Editing the file
+
+its a markdown file in this repository
